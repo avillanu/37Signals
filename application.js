@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('div').fadeOut('fast');
+    $('panel1').fadeOut('fast');
 });
