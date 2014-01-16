@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('panel1').fadeOut('fast');
+    $('catchphrase').fadeOut('fast');
 });
