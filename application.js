@@ -1,3 +1,5 @@
 $(document).ready(function(){
-    $('#catchphrase').fadeOut('fast');
+    $('#panel1').hover(function(){
+    	$(this).fadeOut();
+    });
 });
