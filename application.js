@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('catchphrase').fadeOut('fast');
+    $('#catchphrase').fadeOut('fast');
 });
