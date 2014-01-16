@@ -1,5 +1,3 @@
-$(document).onload(function(){
-    $('panel1').hover(function(){
-    fadeOut('fast'); 	
-});
+$(document).ready(function(){
+    $('div').fadeOut('fast');
 });
