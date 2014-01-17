@@ -164,7 +164,7 @@ p.redtext{
 	text-align:center;
 }
 
-.panelcontainer{
+#panelcontainer{
 	max-width:625px;
 	margin-left:auto;
 	margin-right:auto;
@@ -172,6 +172,7 @@ p.redtext{
 }
 
 #panel1, #panel2, #panel3{
+	position:relative;
 	float:left;
 	text-align:center;
 	padding:10px;
