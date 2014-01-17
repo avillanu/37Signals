@@ -123,7 +123,9 @@ p#catchphrase{
 }
 
 p#frustrationfree {
+	width:900px;
 	position:relative;
+	margin:auto;
 	text-align:center;
 	font-size: 20px;
 	font-weight: 500;
