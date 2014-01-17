@@ -110,6 +110,9 @@ font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
 
 #arrow1, #arrow2, #arrow3{
 	display:none;
+	position:absolute;
+	top:100px;
+	left:100px;
 }
 
 p#catchphrase{
